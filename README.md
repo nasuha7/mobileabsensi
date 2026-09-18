@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile_absensi
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mobileabsensi
+PBL Aplikasi Mobile Absensi Mahasiswa menggunakan QR Code
+>>>>>>> be6da3ff06d61bbcff9e8e3ea785e52a39acdc59
