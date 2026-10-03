@@ -1,0 +1,13 @@
+# Tambahkan di pubspec.yaml bagian dependencies:
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^6.0.2
+  qr_flutter: ^4.1.0
+
+# Android: android/app/src/main/AndroidManifest.xml (di dalam <manifest>)
+#   <uses-permission android:name="android.permission.CAMERA"/>
+#
+# iOS: ios/Runner/Info.plist
+#   <key>NSCameraUsageDescription</key>
+#   <string>Kamera dipakai untuk memindai QR Code absensi</string>
